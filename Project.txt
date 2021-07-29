@@ -1,0 +1,11 @@
+Colombo is the capital city of Sri Lanka. The city itself has a population of over 1 million.
+The official language of Colombo and the one that is most widely spoken is Sinhala. However, English is also spoken as a formal language within businesses and government agencies. Over last decades it is continuously grow because of the city’s important role in government and commercial business.
+With it’s diverse culture , comes diverse food items. There are many restaurants in Colombo City, each belonging to different categories like Chinese , Italian , French etc.
+So as part of this project , we will list and visualize all major parts of Colombo City .
+
+Questions that can be asked using the above mentioned datasets
+What is best location in Colombo City for Chinese Cuisine ?
+Which areas have large number of Chinese Resturant Market ?
+Which all areas have less number of resturant ?
+Which is the best place to stay if I prefer Chinese Cuisine ?
+What places are have best restaurant in Colombo?
